@@ -12,7 +12,7 @@ _**Prapti Agarwal (IMS ENGINEERING COLLEGE,GHAZIABAD) 1814310144**_
 Yahoo Finance
 PyPl library : yfinance
 
-# idea to choose this project:
+# Idea to choose this project:
 Big investors have enough money to hire portfolio makers but the common man who has a small investment amount has no extra money to hire a portfolio maker so this application helps these  people to invest their money in an optimized way with low risk and high return.
 
 # Short Discription:
